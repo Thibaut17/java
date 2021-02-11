@@ -9,7 +9,7 @@
 ***
 This bash script is made to create project, edit java source files, compile them, create the javadoc associate to the file and execute class files.
 ### Screenshot
-![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
+![Image text]()
 ## Technologies
 ***
 A list of technologies used within the project:
