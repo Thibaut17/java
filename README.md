@@ -24,6 +24,20 @@ $ cd java
 $ mv java.sh ~/java.sh
 $ chmod 755 ~/java.sh
 ```
+## Usage
+```
+Syntax: ./java.sh [-h|N|w|c|e] -p <project> -s <sourcefile>
+p and s options are required see below.
+
+options:
+h     Print this Help.
+p     Name of the project. Always required.
+s     Java sourcefile. Not required only if the N option is used alone.
+N     Create the arborescence of a new project.
+w     Edit the source file.
+c     Compile the program.
+e     Execute the program in the jvm.
+```
 ## Collaboration
 ***
 Anyone can collaborate to ameliorate it
