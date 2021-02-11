@@ -26,7 +26,7 @@ $ chmod 755 ~/java.sh
 ```
 ## Usage
 ```
-Syntax: ./java.sh [-h|N|w|c|e] -p <project> -s <sourcefile>
+Syntax: ~/java.sh [-h|N|w|c|e] -p <project> -s <sourcefile>
 p and s options are required see below.
 
 options:
