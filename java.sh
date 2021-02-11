@@ -39,7 +39,7 @@
 
 Help(){
    # Display Help
-   echo "Syntax: ./java.sh [-h|N|w|c|e] -p <project> -s <sourcefile>"
+   echo "Syntax: ~/java.sh [-h|N|w|c|e] -p <project> -s <sourcefile>"
    echo "p and s options are required see below."
    echo
    echo "options:"
