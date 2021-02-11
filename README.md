@@ -13,7 +13,7 @@ This bash script is made to create project, edit java source files, compile them
 ## Technologies
 ***
 A list of technologies used within the project:
-* Bash : Any
+* [Bash](https://www.gnu.org/software/bash): Any
 * [JVM](https://www.oracle.com/fr/java/technologies/javase-downloads.html): Version 8 or more
 ## Installation
 ***
