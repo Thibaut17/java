@@ -19,7 +19,7 @@ A list of technologies used within the project:
 ***
 A little intro about the installation. 
 ```
-$ git clone https://example.com
+$ git clone https://www.github.com/Thibaut17/java
 $ cd java
 $ mv java.sh ~/java.sh
 $ chmod 755 ~/java.sh
