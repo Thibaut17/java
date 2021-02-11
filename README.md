@@ -22,6 +22,7 @@ A little intro about the installation.
 $ git clone https://example.com
 $ cd java
 $ mv java.sh ~/java.sh
+$ chmod 755 ~/java.sh
 ```
 ## Collaboration
 ***
